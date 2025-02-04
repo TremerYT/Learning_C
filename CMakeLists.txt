@@ -152,4 +152,35 @@ add_executable(Learning_C
     0x06-pointers_arrays_strings/8-main.c
     0x06-pointers_arrays_strings/8-print_diagsums.c
     0x06-pointers_arrays_strings/_putchar.c
-    0x06-pointers_arrays_strings/main.h)
+    0x06-pointers_arrays_strings/main.h
+        0x0E-function_pointers/3-op_functions.c
+        0x0E-function_pointers/0-main.c
+        0x0E-function_pointers/0-print_name.c
+        0x0E-function_pointers/1-array_iterator.c
+        0x0E-function_pointers/1-main.c
+        0x0E-function_pointers/2-main.c
+        0x0E-function_pointers/3-calc.h
+        0x0E-function_pointers/3-get_op_func.c
+        0x0E-function_pointers/3-main.c
+        0x0E-function_pointers/100-main_opcodes.c
+        0x10-variadic_functions/0-sum_them_all.c
+        0x10-variadic_functions/0-main.c
+        0x10-variadic_functions/1-print_numbers.c
+        0x10-variadic_functions/2-print_strings.c
+        0x10-variadic_functions/2-main.c
+        0x10-variadic_functions/3-print_all.c
+        0x10-variadic_functions/3-main.c
+        0x11-singly_linked_lists/lists.h
+        0x11-singly_linked_lists/0-main.c
+        0x11-singly_linked_lists/1-main.c
+        0x11-singly_linked_lists/2-main.c
+        0x11-singly_linked_lists/3-main.c
+        0x11-singly_linked_lists/4-main.c
+        0x11-singly_linked_lists/100-first.c
+        0x11-singly_linked_lists/0-print_list.c
+        0x11-singly_linked_lists/1-list_len.c
+        0x11-singly_linked_lists/2-add_node.c
+        0x11-singly_linked_lists/3-add_node_end.c
+        0x11-singly_linked_lists/4-free_list.c
+        0x11-singly_linked_lists/100-main.c
+        0x11-singly_linked_lists/101-hello_alx.asm)
